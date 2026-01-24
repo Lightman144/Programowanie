@@ -1,0 +1,8 @@
+Endpoint GET:
+http://127.0.0.1:5000/detect/local?filename=
+
+Endpoint GET/url:
+http://127.0.0.1:5000/detect/url?image_url=
+
+Endpoint POST:
+POST.py i jpg
